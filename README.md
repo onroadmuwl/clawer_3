@@ -1,7 +1,7 @@
 # clawer_3
 
 
-catchKeyword.py /<br>
+catchKeyword.py <br>
 ----
 
 
@@ -10,7 +10,7 @@ catchKeyword.py /<br>
 
 
 
-CatchMain.py/<br>
+CatchMain.py<br>
 ---
 
 
@@ -20,14 +20,14 @@ CatchMain.py/<br>
 
 
 
-QuChong.py  /<br>
+QuChong.py  <br>
 ----
 排除由于个人操作及微博标签重复等原因产生的重复数据
 
 
 
 
-LineChart.py /<br>
+LineChart.py <br>
 ----
 
 
@@ -39,15 +39,21 @@ LineChart.py /<br>
 
 
 
-MypictorcialBar.py /<br>
+MypictorcialBar.py <br>
 ----
 绘制报道香港事件最多的前十名博主的象形图。
 
 
 
+data.zip <br>
+-----------
+数据详情及ppt汇总
 
 
-mywordClouds.py  /<br>
+
+
+
+mywordClouds.py  <br>
 ----
 绘制每个月微博报告香港事件的关键词
 以及三大媒体报道的关键词
